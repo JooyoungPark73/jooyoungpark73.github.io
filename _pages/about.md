@@ -6,7 +6,7 @@ subtitle: <a href='cv'>Ph.D. Student</a>. Nanyang Technological University, Sing
 
 profile:
   align: right
-  image: jooyoung.jpg
+  image: jooyoung_photo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>jooyoung001 [at] ntu.edu.sg</p>
