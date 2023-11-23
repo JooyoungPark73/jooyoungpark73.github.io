@@ -7,10 +7,10 @@ subtitle: <a href='cv'>Ph.D. Student</a> @ Nanyang Technological University, Sin
 profile:
   align: right
   image: jooyoung_photo.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>jooyoung001 [at] ntu.edu.sg</p>
-    <p>N4 PDCL, NTUsg</p>
+  image_circular: true # crops the image to make it circular
+  # more_info: >
+  #   <p>jooyoung001 [at] ntu.edu.sg</p>
+  #   <p>N4 PDCL, NTUsg</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
